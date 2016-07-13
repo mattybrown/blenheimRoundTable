@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Round Table 30
+email: brownprobable@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  We offer a community focused way to meet new people, develop personally and promote understanding and goodwill. We expect our
+  members to participate fully in activities and are prepared to take responsibilities within the table. We encourage our members
+  to be active, take an intelligent approach to being a good citizen, accept and display civic responsibility, and to promote high
+  standards in both business and professional life. Round Table remains a neutral organisation in regards to the political and
+  religious beliefs of its members
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://localhost:4000" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown

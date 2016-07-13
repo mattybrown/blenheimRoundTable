@@ -1,0 +1,27 @@
+---
+layout: home
+---
+
+<div class="row">
+  <div class="col l6 s12">
+    <h5 class="page-heading">Latest news:</h5>
+
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+          <h4>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h4>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  </div>
+  <div class="col l6 s12">
+    <h5>Next meeting:</h5>
+    <p>Monday 18 July, 2016</p>
+  </div>
+</div>
