@@ -5,8 +5,6 @@ permalink: /about/
 ---
 <img src="{{ "/images/home.jpg" | prepend: site.baseurl | prepend: site.url }}" class="responsive-img">
 
-We Are Simply The Best Sociable/Community Organisation in the World……Ever
-
 Round Table New Zealand is a National Association of tables (clubs) based throughout New Zealand. Membership is open to responsible community focused men between the ages of 18 – 45.
 
 Each local table is autonomous and can work within the standard framework of the national constitution – so each table can adapt to what its members and local community needs.

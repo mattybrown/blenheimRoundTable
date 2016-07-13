@@ -1,6 +1,6 @@
 <nav class="site-nav" role="navigation">
   <div class="nav-wrapper container">
-    <a id="logo-container" class="brand-logo" href="{{ site.baseurl | prepend: site.url }}"><i class="fa fa-circle-o-notch"></i> {{ site.title }}</a>
+    <a id="logo-container" class="brand-logo" href="{{ site.baseurl | prepend: site.url }}"><img src="{{ "/images/roundtable-logo.png" | prepend: site.baseurl | prepend: site.url }}"> <span>{{ site.title }}</span></a>
     <ul class="right hide-on-med-and-down">
       {% for my_page in site.pages %}
         {% if my_page.title %}
