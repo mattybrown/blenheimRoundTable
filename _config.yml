@@ -19,4 +19,5 @@ url: "https://mattybrown.github.io" # the base hostname & protocol for your site
 
 
 # Build settings
+name: Blenheim Round Table
 markdown: kramdown
