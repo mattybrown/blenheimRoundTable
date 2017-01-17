@@ -4,7 +4,7 @@ title: Get in touch
 permalink: /contact/
 ---
 
-You can [email][email] us, call our president on 021111111? or just turn up to our next meeting (info for the next meeting is on the front page).
+You can [email][email] us, call our president John Pontague on 021616926 or just turn up to our next meeting (info for the next meeting is on the front page).
 
 Our meetings are the first and third Monday of every month, usally at the Clubs of Marlborough. Check out the map below for directions to the club.
 
